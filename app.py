@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title(':cat:펫 가이드:dog:')
-st.info('반려동물 보호자분들께 필요한 정보를 보기 쉽게 정리해서 재공해드려요 :)')
+st.info('반려동물 보호자분들께 필요한 정보를 보기 쉽게 정리해서 제공해드려요 :)')
 #st.caption('d') 
 
 st.subheader('**수원 근처 동물병원**') # 제목
